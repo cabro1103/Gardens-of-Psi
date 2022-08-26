@@ -709,7 +709,7 @@ body{
     font-family: poppins;
     justify-content: center;
     transition: all .4s ease;
-    width:90%;
+    width:10%;
     border-radius: 10px;
     background: #c70039;
 }
@@ -734,7 +734,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:85%;
+    width:36%;
     border-radius: 10px;
     background: #c70039;
     transition: all .4s ease;
@@ -748,7 +748,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:94%;
+    width:10%;
     border-radius: 10px;
     background: #c70039;
 }
@@ -760,7 +760,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:84%;
+    width:4%;
     border-radius: 10px;
     transition: all .4s ease;
     background: #c70039;
